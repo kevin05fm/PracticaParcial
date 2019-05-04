@@ -1,0 +1,481 @@
+# depslib dependency file v1.0
+1539373358 source:c:\users\kevin.fernandez\documents\programacion\kevin.fernandez.1g\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1539362173 c:\users\kevin.fernandez\documents\programacion\kevin.fernandez.1g\cliente.h
+	"juegos.h"
+
+1539361884 c:\users\kevin.fernandez\documents\programacion\kevin.fernandez.1g\juegos.h
+
+1539361884 c:\users\kevin.fernandez\documents\programacion\kevin.fernandez.1g\alquileres.h
+
+1539371063 source:c:\users\kevin.fernandez\documents\programacion\kevin.fernandez.1g\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1539362636 source:c:\users\kevin.fernandez\documents\programacion\kevin.fernandez.1g\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+
+1539362636 source:c:\users\kevin.fernandez\documents\programacion\kevin.fernandez.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+
+1539044900 source:c:\users\kevin.fernandez\documents\programacion\kevin.fernandez.1g\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1524691840 c:\users\kevin.fernandez\documents\programacion\kevin.fernandez.1g\validaciones.h
+
+1539392184 source:e:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1539362174 e:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\cliente.h
+	"juegos.h"
+
+1555883808 e:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\juegos.h
+
+1539391784 e:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\alquileres.h
+
+1524691840 e:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\validaciones.h
+
+1539393042 source:e:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+
+1555883868 source:e:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+
+1539044900 source:e:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1555883808 source:e:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1555883808 source:d:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1539362174 d:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\cliente.h
+	"juegos.h"
+
+1555883808 d:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\juegos.h
+
+1539391784 d:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\alquileres.h
+
+1524691840 d:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\validaciones.h
+
+1555884386 source:d:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1555883868 source:d:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+
+1539044900 source:d:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1555883808 source:d:\facultad\2do cuatri\parcial 1\kevin.fernandez.1g\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+
+1556460460 source:d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1556417834 d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\cliente.h
+	"juegos.h"
+	"sector.h"
+
+1555883808 d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\juegos.h
+
+1556460242 d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\alquileres.h
+
+1524691840 d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\validaciones.h
+
+1556417834 source:d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1556461138 source:d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"juegos.h"
+
+1556462118 source:d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"juegos.h"
+
+1539044900 source:d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1556405392 source:d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1556461148 d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\sector.h
+	"empleado.h"
+
+1556460460 source:d:\facultad\programacion1_2019\practicaparcial\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1556417834 d:\facultad\programacion1_2019\practicaparcial\cliente.h
+	"juegos.h"
+	"sector.h"
+
+1555883808 d:\facultad\programacion1_2019\practicaparcial\juegos.h
+
+1556404964 d:\facultad\programacion1_2019\practicaparcial\sector.h
+	"cliente.h"
+
+1556460242 d:\facultad\programacion1_2019\practicaparcial\alquileres.h
+
+1524691840 d:\facultad\programacion1_2019\practicaparcial\validaciones.h
+
+1556417834 source:d:\facultad\programacion1_2019\practicaparcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1556405452 source:d:\facultad\programacion1_2019\practicaparcial\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+
+1556459502 source:d:\facultad\programacion1_2019\practicaparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+
+1556405392 source:d:\facultad\programacion1_2019\practicaparcial\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1539044900 source:d:\facultad\programacion1_2019\practicaparcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1556462408 source:d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"juegos.h"
+	"validaciones.h"
+
+1556462382 d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\empleado.h
+	"juegos.h"
+	"sector.h"
+
+1556461686 d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\almuerzo.h
+
+1556462988 source:d:\facultad\programacion1_2019\clase 11 y practica para parcial\practicaparcial\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"juegos.h"
+	"validaciones.h"
+
+1556461138 source:c:\users\alumno\desktop\practicaparcial\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"juegos.h"
+
+1556575675 c:\users\alumno\desktop\practicaparcial\empleado.h
+	"sector.h"
+
+1556461148 c:\users\alumno\desktop\practicaparcial\sector.h
+	"empleado.h"
+
+1556581119 c:\users\alumno\desktop\practicaparcial\almuerzo.h
+
+1555883808 c:\users\alumno\desktop\practicaparcial\juegos.h
+
+1556581119 source:c:\users\alumno\desktop\practicaparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"juegos.h"
+
+1556405392 source:c:\users\alumno\desktop\practicaparcial\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1524691840 c:\users\alumno\desktop\practicaparcial\validaciones.h
+
+1539044900 source:c:\users\alumno\desktop\practicaparcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1556580349 source:c:\users\alumno\desktop\practicaparcial\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"validaciones.h"
+
+1556581119 source:c:\users\alumno\desktop\practicaparcial\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"validaciones.h"
+
+1556581120 source:e:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"validaciones.h"
+
+1556575676 e:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\empleado.h
+	"sector.h"
+
+1556461148 e:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\sector.h
+	"empleado.h"
+
+1556582796 e:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\almuerzo.h
+
+1524691840 e:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\validaciones.h
+
+1556461138 source:e:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"juegos.h"
+
+1555883808 e:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\juegos.h
+
+1556582834 source:e:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"juegos.h"
+
+1556405392 source:e:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1539044900 source:e:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1556582962 source:e:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"validaciones.h"
+
+1557005338 source:d:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"validaciones.h"
+
+1556575676 d:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\empleado.h
+	"sector.h"
+
+1556461148 d:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\sector.h
+	"empleado.h"
+
+1557008208 d:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\almuerzo.h
+
+1524691840 d:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\validaciones.h
+
+1557004908 source:d:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"validaciones.h"
+
+1556461138 source:d:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"juegos.h"
+
+1555883808 d:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\juegos.h
+
+1557008210 source:d:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"almuerzo.h"
+	"juegos.h"
+
+1556405392 source:d:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquileres.h"
+	"juegos.h"
+	"validaciones.h"
+
+1539044900 source:d:\facultad\programacion1_2019\practicaparcialultimo\practicaparcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
